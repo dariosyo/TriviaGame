@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-image: url(../../assets/image/biblepic.png);
+}
+
+.text-muted{
+    color: rgb(17, 117, 199);
+    padding: 10px;
+    font-weight: bolder;
+    background-color: bisque;
+    width: 800px;
+    margin-left: 167px;
+}
+.last-seconds{
+  color: red;
+  
+}
+.option{
+  margin: 15px;
+}
+#quote{
+    color: rgb(248, 248, 248);
+    font-style: italic;
+}
+.jumbotron-fluid{
+    background-color: rgb(209, 148, 233);
+}
